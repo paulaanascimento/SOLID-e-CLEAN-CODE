@@ -1,4 +1,4 @@
-package liskovSubstitutionPrincipl
+package liskovSubstitutionPrinciple
 
 fun main() {
     val normalCar = Car()

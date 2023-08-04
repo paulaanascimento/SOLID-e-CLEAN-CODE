@@ -1,4 +1,4 @@
-package liskovSubstitutionPrincipl
+package liskovSubstitutionPrinciple
 
 open class Car {
    open fun turnOnEnginer() {

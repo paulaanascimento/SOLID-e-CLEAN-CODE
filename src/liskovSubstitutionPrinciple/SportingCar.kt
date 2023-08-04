@@ -1,4 +1,4 @@
-package liskovSubstitutionPrincipl
+package liskovSubstitutionPrinciple
 
 class SportingCar : Car() {
 
