@@ -1,4 +1,0 @@
-package D
-
-class Lia {
-}
