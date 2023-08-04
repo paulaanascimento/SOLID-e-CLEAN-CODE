@@ -1,0 +1,4 @@
+package O
+
+class lala {
+}
